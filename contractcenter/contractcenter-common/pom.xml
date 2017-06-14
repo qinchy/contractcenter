@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>com.wwwarehouse</groupId>
+        <groupId>com.qinchy</groupId>
         <artifactId>contractcenter</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.wwwarehouse</groupId>
+    <groupId>com.qinchy</groupId>
     <artifactId>contractcenter-common</artifactId>
     <version>1.0-SNAPSHOT</version>
 
